@@ -3,6 +3,8 @@ layout: post
 title: Slow Cooker Roast
 ---
 
+Roast with potatoes, onions, and pepperocinis
+
 1. Large Roast
 2. Dry Au Jus Mix
 3. Hidden Valley Ranch Packet
