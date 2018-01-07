@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Our Recipe Book!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is a site to hold our favorite recipes. Pull requests welcome! Source found
+at [github.com/Kethku/Recipes](github.com/Kethku/Recipes)
 
-### Contact me
+### Contact Us
 
-[email@domain.com](mailto:email@domain.com)
+[keith@the-simmons.net](mailto:keith@the-simmons.net)
+[grinsladeg@gmail.com](mailto:grinsladeg@gmail.com)
