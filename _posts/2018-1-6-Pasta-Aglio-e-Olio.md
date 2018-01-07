@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pasta Ail e Olio
+title: Pasta Aglio e Olio
 ---
 
 Eight ingredient homemade pasta with garlic and oil
@@ -25,7 +25,7 @@ machine to cut noodles or generously flour surface and rolling pins before
 rolling out into foot by two foot sheet. Fold sheet into long tube and cut
 noodles to size.
 
-[https://www.youtube.com/watch?v=bJUiWdM__Qw](Binging with Babish Pasta Ail e Olio)
+[https://www.youtube.com/watch?v=bJUiWdM__Qw](Binging with Babish Pasta Aglio e Olio)
 
 Slice garlic into thin slices. Chop parsley finely. Cut lemon in half. Grate
 parmesian to taste. Boil pot of water with salt. Heat olive oil in non stick
