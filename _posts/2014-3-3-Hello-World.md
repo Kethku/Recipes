@@ -1,12 +1,19 @@
 ---
 layout: post
-title: You're up and running!
+title: Slow Cooker Roast
 ---
 
-# Header
+1. Large Roast
+2. Dry Au Jus Mix
+3. Hidden Valley Ranch Packet
+4. 2 Red Onion
+5. 2 Bags Baby Potatoes
+6. 6 Pepperocinis
+7. Half Stick Butter
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## Instructions
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Place roast in crock pot. Pour packets on roast. Place baby potatoes in pot. Cut
+onion into quarters and add to pot. Add pepperocinis and butter. Cook on low 8-10
+hours or high for 4-6. Stir pot before adding salt and pepper as needed. Tear roast
+with fork.
