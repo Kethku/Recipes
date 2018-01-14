@@ -7,16 +7,16 @@ Mac and cheese with a bechamel cheese sauce and breadcrumb crust.
 
 1. 1 lb pasta
 2. 3-4 cups grated cheese
-3. ¼ cup butter
-4. ¼ cup flour
-5. ¼ tsp thyme
-6. ¼ tsp cayenne
+3. Â¼ cup butter
+4. Â¼ cup flour
+5. Â¼ tsp thyme
+6. Â¼ tsp cayenne
 7. 1/8 tsp white pepper
-8. ¼ Worcestershire sauce
+8. Â¼ Worcestershire sauce
 9. 1 tsp salt
 10. Pinch of nutmeg
 11. 3 cups cold milk
-12. ½ cup Panko breadcrumbs (mixed with 1 tTbsp butter)
+12. Â½ cup Panko breadcrumbs (mixed with 1 tTbsp butter)
 
 ## Instructions
 
