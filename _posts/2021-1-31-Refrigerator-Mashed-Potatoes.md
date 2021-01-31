@@ -1,35 +1,27 @@
 ---
 layout: post
-title: Pasta Aglio e Olio
+title: Refrigerator Mashed Potatoes
 ---
 
-Eight ingredient homemade pasta with garlic and oil
+Creamy, rich mashed potatoes
 
-1. Unbleached Semolina Flour
-2. 2 Eggs
-3. Fresh Garlic
-4. Parsley
-5. Lemon
-6. Olive Oil
-7. Parmesian
-8. 8th stick of Butter
+1. 9 Large Yukon Gold Potatoes (~5 lbs)
+2. 2 (3 oz) Packages Cream Cheese
+3. 1 cup Sour Cream
+4. 2 tsp Onion Salt
+5. 1 tsp Salt
+6. 1/4 tsp Ground Black Pepper
+7. 2 Tbsp Butter (to mix in potatoes)
+8. 2 Tbsp Butter (to top with)
 
 ## Instructions
 
-[https://www.youtube.com/watch?v=HdSLKZ6LN94&t=21s](Binging with Babish Pasta)
+Cook peeled potatoes in boiling salted water until tender. Drain. Mash until 
+smooth (no lumps). Add remaining ingredients and beat until light and fluffy.
+Cool. Cover and place in fridge. May be used any time within two weeks.
 
-Pile flour on clean surface. Make nest for eggs. Fold flour in on eggs until
-rough dough appears. Knead with bench scraper until soft, supple and elastic.
-Sit covered in plastic wrap for 30 minutes. Cut into two. Either use pasta
-machine to cut noodles or generously flour surface and rolling pins before
-rolling out into foot by two foot sheet. Fold sheet into long tube and cut
-noodles to size.
+To use, place desired amount in greased casserole dish, dot with butter, and
+bake at 350&deg;F until heated through (about 30 minutes).
 
-[https://www.youtube.com/watch?v=bJUiWdM__Qw](Binging with Babish Pasta Aglio e Olio)
-
-Slice garlic into thin slices. Chop parsley finely. Cut lemon in half. Grate
-parmesian to taste. Boil pot of water with salt. Heat olive oil in non stick
-pan. Add noodles to pot. Brown garlic in pan till fragrant. Once floating
-transfer noodles to pan. Add parsley, parmesian and butter to pan and heat till
-butter melted. Salt and pepper to taste. Plate noodles and sprinkle with
-parmesian.
+Note: If you use the full amount, heat in a 2 quart casserole dish and dot 
+with 2 Tbsp butter.
